@@ -2,7 +2,8 @@ import re
 from collections import Counter
 import pprint
 
-data = open("./txt_data/NLP_nospace.txt","r")
+#data = open("./txt_data/NLP_nospace.txt","r")
+data = open("./txt_data/NLP_replace.txt","r")
 txt_data = data.read()
 data.close()
 
