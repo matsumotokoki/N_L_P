@@ -7,32 +7,32 @@ natural language processing をpythonで実装してみた
 
 ## Usage
 1st-homework
-'''bash
+```bash
 $ python list.py
-'''
+```
 
 2nd-homework
-'''bash
+```bash
 $ python replace.py
-'''
+```
 
 4rd-homework
-'''bash
+```bash
 $ python str_split_2.py 
-'''
+```
 
 5th-homework
-'''bash
+```bash
 $python str_split_3.py
-'''
+```
 
 6th-homework
-'''bash
+```'''bash
 $python random_langage.py
-'''
+```
 
 7th-homework
-'''bash
+```'''bash
 $python Markov_Process.py <order-number>
-'''
+```
 
